@@ -12,15 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OneFJef/employee-manager.git"
+    "url": "git+https://github.com/thehaqua/employee-manager.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/OneFJef/employee-manager/issues"
   },
-  "homepage": "https://github.com/OneFJef/employee-manager#readme",
   "dependencies": {
     "asciiart-logo": "^0.2.6",
     "console.table": "^0.10.0",
